@@ -1,4 +1,4 @@
-# Quan_Ly_Chi_Tieu_Sinh_Hoat
+# Quan_Ly_Chi_Tieu_Sinh_Hoat ( Winform_C# )
 
 - 2 chế độ:
 + Chạy dữ liệu từ database ( Hoàn Thiện ) 
